@@ -1,0 +1,46 @@
+html {
+	background-color: #000;
+    line-height: 1.5;
+    -webkit-font-smoothing: antialiased;
+}
+#ytplayer {
+    background: black;
+    margin: 0 auto;
+    width: 80vw;
+    height: 45vw;
+    max-width: 1100px;
+    max-height: 619px;
+    border: 5px solid white;
+}
+.subheading {
+    font-family: 'Oswald', sans-serif;
+    color: #fff;
+    font-size: 2rem;
+    font-weight: 500;
+    line-height: 1;
+    margin: 0 0 20px;
+    font-stretch: condensed;
+    position:absolute;
+    }
+ .border {
+ 	position:absolute; TOP:1636px; LEFT:-540px;
+ 	width:1050px ; 
+ 	height:5px;
+ }
+ .thelastofuscover {
+ 	position:absolute; TOP:; LEFT:;
+ 	width: ;
+ 	height:750px ;
+ }
+ .heading {
+ 	padding-right: 400px;
+ 	font-family: 'Oswald', sans-serif;
+    color: #fff;
+    font-size: 2rem;
+    font-weight: 500;
+    line-height: 1;
+    margin: 0 0 20px;
+    font-stretch: condensed;
+    position:absolute;
+    width: 450px;
+ }
